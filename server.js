@@ -18,7 +18,7 @@ app.get('/ui/madi.png', function (req, res) {
 });
 
 app.get('/asdf', function(req, res) {
-    res.send('This is my app y\'all');
+    res.send('This is my app!!!');
 });
 
 
